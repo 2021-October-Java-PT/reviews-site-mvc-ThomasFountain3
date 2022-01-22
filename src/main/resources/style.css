@@ -1,0 +1,13 @@
+* {
+    background-color: green;
+    text-align: center;
+    color: red;
+}
+
+.img {
+    border: 1px solid black;
+}
+
+li {
+    text-decoration: none;
+}
